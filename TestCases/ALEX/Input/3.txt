@@ -1,0 +1,28 @@
+1
+17 25
+a1 a5
+a1 a2
+a5 a2
+a2 a3
+a3 a4
+a4 a1
+a5 c2
+a2 b1
+b1 b2
+b1 b3
+b2 b4
+b4 b1
+b3 b4
+b4 d1
+b3 c1
+c1 c2
+c1 c4
+c2 c3
+c3 c1
+c4 c3
+c4 d3
+d3 d4
+d4 d1
+d1 d2
+d2 d3
+a4

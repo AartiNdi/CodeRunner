@@ -1,0 +1,14 @@
+Marks Distribution and Order of Questions:
+
+Total Marks : 150  ;  Four levels of Questions
+
+1) BASICS   :  5 Marks  (Level 0)
+2) PMPROB : 10 Marks (Level 1)
+3) ENDOW :  10 Marks (Level 1)
+4) CRSOUT:  15 Marks (Level 2)
+5) ULGAME: 20 Marks (Level 2)
+6) METMAP: 30 Marks (Level 3)
+7) ALXDAR:  30 Marks (Level 3)
+8) ARCHI:      30 Marks (Level 3) 
+-------------------------------------------
+Total : 	150 Marks
